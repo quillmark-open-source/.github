@@ -6,9 +6,12 @@ Quillmark Open Source is an initiative of Quillmark LLC.
 
 ### Compliance Flag
 
-[Compliance Flag](https://github.com/quillmark-open-source/compliance-flag) is an open-source Python CLI that uses LLMs to produce structured, reviewable reports. The point is to make risk easier to examine, not to pretend software can make the final judgment.
+[Compliance Flag](https://github.com/quillmark-open-source/compliance-flag) is a Python CLI for preparing reviewer-ready reports on public URLs and local content files that a team is authorized to review.
 
-Compliance Flag is a review-support tool. It does not provide legal advice, compliance advice, regulatory approval, guaranteed compliance, or final review decisions.
+It preserves the source material, compares Registered Investment Adviser (RIA) marketing content against bundled SEC regulatory sources, and organizes the results for qualified compliance, legal, or supervisory review.
+
+The analysis is performed by an AI model, so the report should be treated as structured review support, not as a substitute for professional judgment.
+
 
 ## How to participate
 
