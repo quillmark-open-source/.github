@@ -6,9 +6,7 @@ Quillmark Open Source is an initiative of Quillmark LLC.
 
 ### Compliance Flag
 
-[Compliance Flag](https://github.com/quillmark-open-source/compliance-flag) is the first Quillmark Open Source project. It is an open-source Codex plugin and workflow package for SEC Marketing Rule website review. The source evidence stays with the report.
-
-It helps teams collect public RIA website pages, preserve page evidence, and use Codex to draft findings for review by qualified people.
+[Compliance Flag](https://github.com/quillmark-open-source/compliance-flag) is an open-source Python CLI that uses LLMs to produce structured, reviewable reports. The point is to make risk easier to examine, not to pretend software can make the final judgment.
 
 Compliance Flag is a review-support tool. It does not provide legal advice, compliance advice, regulatory approval, guaranteed compliance, or final review decisions.
 
